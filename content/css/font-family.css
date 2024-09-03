@@ -1,0 +1,25 @@
+/* Rubic Font Family */
+@font-face {
+  font-family: "Rubic";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Rubik/Rubik-Regular.ttf") format("truetype");
+  /* font-display: swap; */
+}
+
+@font-face {
+  font-family: "Rubic";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/Rubik/Rubik-Medium.ttf") format("truetype");
+  /* font-display: swap; */
+}
+@font-face {
+  font-family: "Rubic";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/Rubik/Rubik-SemiBold.ttf") format("truetype");
+  /* font-display: swap; */
+}
+
+
